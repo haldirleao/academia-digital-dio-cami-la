@@ -1,3 +1,7 @@
+<h1>Notas: haldirleao</h1>
+<p>- Commits a partir de 29/04/2023 são alterações/testes feitos por haldirleao enquanto estudava este módulo.</p>
+<p>- Alterado o BD de PostgreSQL para MySQL.</p>
+
 <h1>Conhecendo o Projeto Spring Data JPA na Prática </h1>
 <p> Sejam bem-vindos ao projeto de LAB <strong>Conhecendo o Projeto Spring Data JPA na Prática</strong> oferecido gratuitamente pela plataforma de cursos online <a href="https://dio.me/"><strong> Digital Innovation One</strong></a>.<br>
 
